@@ -4,6 +4,10 @@
   height: 100px;
   border: 2px solid black;
 }
+.btn {
+  text-align: center;
+  margin-left: 45%;
+}
 
 .heading {
   text-align: center;
