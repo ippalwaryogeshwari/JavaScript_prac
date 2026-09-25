@@ -51,6 +51,4 @@ btn.addEventListener("click" , ()=>{
     
 })
 
-let guess = prompt("guess Generator number : ");
-console.log(guess);
 
